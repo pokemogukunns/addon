@@ -1,15 +1,15 @@
 {
   "format_version": 2,
   "header": {
-    "description": "スーパーマリオ マッシュアップ",
-    "name": "Super Mario Mashup Pack",
-    "uuid": "e8cbf4bc-b92b-4f2d-a312-6e1e47ecf62a",
+    "description": "色々変更",
+    "name": "色々自作で変更しまくった。",
+    "uuid": "e8cbf4bc-kn86-4f2d-a312-6e1e47ecf62a",
     "version": [1, 0, 0],
     "min_engine_version": [1, 20, 0]
   },
   "modules": [
     {
-      "description": "Super Mario テクスチャパック",
+      "description": "ほんとに適当",
       "type": "resources",
       "uuid": "0c125ae1-b3e1-40c3-9394-0191b1b0f600",
       "version": [1, 0, 0]
