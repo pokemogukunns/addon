@@ -1,0 +1,9 @@
+{
+  "skins": [
+    {
+      "localization_name": "初音ミク",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "textures/entity/hatune_skin.png"
+    }
+  ]
+}
